@@ -1,2 +1,1 @@
-# Audiafinance-
-Elle aide à bien gérer les dépenses le revenu et les différents montants qu'on gagne 
+# Audiafinance- est une application de gestion financière personnelle qui vous aide à mieux organiser vos revenus, contrôler vos dépenses et suivre vos différentes sources de gains. Elle vous permet de suivre vos entrées et sorties d'argent, de connaître votre solde disponible et de mieux planifier votre budget afin d'atteindre vos objectifs financiers. 
